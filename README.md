@@ -36,6 +36,10 @@
 - Higher productivity
 - Lower costs 
 
+### Scrum Diagram
+![image](https://user-images.githubusercontent.com/78093219/194601774-be3af713-89f9-42ae-814d-f2782e81875d.png)
+
+
 ### Installing Python
 - Download the latest version from https://www.python.org/downloads/
 - Save the installer on your device, once opened, install the application

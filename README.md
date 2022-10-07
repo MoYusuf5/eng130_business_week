@@ -1,4 +1,4 @@
-# eng130_python
+# eng130_week 1 
 
 ### Elevator's Pitch
 - 

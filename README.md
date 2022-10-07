@@ -32,7 +32,6 @@
 - Increases customer satisfaction
 - Increased adaptability
 
-### Agile Diagram
 ![image](https://user-images.githubusercontent.com/78093219/194601958-5b50c10c-b103-4471-afd5-f04ed1d6d744.png)
 
 ### What is Scrum?
@@ -41,7 +40,6 @@
 - Higher productivity
 - Lower costs 
 
-### Scrum Diagram
 ![image](https://user-images.githubusercontent.com/78093219/194601774-be3af713-89f9-42ae-814d-f2782e81875d.png)
 
 ### Installing Python

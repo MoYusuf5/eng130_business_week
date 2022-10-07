@@ -4,8 +4,24 @@
 - An elevator pitch is a brief way of introducing yourself, getting across key points and forming a connection with someone
 - 30 seconds to 2 minutes, roughly the same time it takes to ride an elevator with someone
 - Highlighting achievements 
+- Use buzzwords
 - Tone 
 - Body language 
+
+### What is DevOps?
+- Devops is a method to deliver your application while splitting the responsibility and workload
+- Integrates developers and operations teams in order to improve collaboration and productivity
+
+### Roles of a DevOps Engineer?
+- Building and setting up new development tools and infrastructure
+- Understanding the needs of stakeholders
+- Testing and examining code
+- Planning out projects
+
+### How Does DevOps Benefit a Business?
+- Improves office collaboration and communication
+- Solves problems faster 
+- Communication with clients improve
 
 ### What is Agile?
 - Agile is a methodology where you go through continuous small improvements through frequent releases 
@@ -19,4 +35,14 @@
 - Quicker releases of useable products
 - Higher productivity
 - Lower costs 
+
+### Installing Python
+- Download the latest version from https://www.python.org/downloads/
+- Save the installer on your device, once opened, install the application
+
+### Installing PyCharm
+- Download the latest version from https://www.jetbrains.com/pycharm/download/#section=windows
+- Download the community edition
+- Open PyCharm, create a new project and you're set to go!
+
 
